@@ -1,4 +1,4 @@
-🚀 Voyager – Smart Travel Planner
+Voyager – Smart Travel Planner
 Personalized Itinerary Management | Full-Stack Web Application | Modern Travel Planning
 
 A full-stack web application for creating, saving, and managing travel itineraries with a beautiful purple and golden themed interface.
